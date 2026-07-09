@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal geometric analysis diagram</title>
+  <desc id="desc">A Gaussian curve, heat flow lines, and a nodal curve drawn in a restrained academic style.</desc>
+  <rect width="520" height="420" fill="#fbfaf7"/>
+  <path d="M54 326C118 326 121 101 188 101C255 101 252 326 316 326C379 326 381 159 466 159" fill="none" stroke="#1f6f78" stroke-width="5" stroke-linecap="round"/>
+  <path d="M54 326C122 288 139 234 189 227C249 219 278 276 324 263C379 247 391 167 466 159" fill="none" stroke="#8a3a2b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M76 95C140 64 211 57 273 80C334 102 374 148 427 132" fill="none" stroke="#d6cdbc" stroke-width="2"/>
+  <path d="M84 118C154 91 224 92 281 116C339 140 383 180 449 166" fill="none" stroke="#d6cdbc" stroke-width="2"/>
+  <path d="M84 142C154 124 221 131 279 153C338 176 388 205 452 196" fill="none" stroke="#d6cdbc" stroke-width="2"/>
+  <g fill="#222222">
+    <circle cx="188" cy="101" r="6"/>
+    <circle cx="316" cy="326" r="6"/>
+    <circle cx="466" cy="159" r="6"/>
+  </g>
+  <g stroke="#222222" stroke-width="1" opacity="0.42">
+    <line x1="54" y1="346" x2="466" y2="346"/>
+    <line x1="72" y1="70" x2="72" y2="346"/>
+  </g>
+  <g fill="#66625c" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    <text x="82" y="82">frequency</text>
+    <text x="353" y="317">nodal geometry</text>
+    <text x="328" y="132">Gaussian space</text>
+  </g>
+</svg>
