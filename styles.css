@@ -129,8 +129,16 @@ h2 + h3 {
 }
 
 .cv-divider {
-  margin-top: 48px;
-  border-top: 1px solid var(--border);
+  margin-top: 28px;
+}
+
+.cv-divider::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin-bottom: 20px;
+  background: #eeeeee;
 }
 
 p {
