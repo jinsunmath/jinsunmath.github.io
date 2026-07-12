@@ -131,7 +131,7 @@ h2 + h3 {
 .cv-divider {
   margin-top: 28px;
   padding-top: 20px;
-  border-top: 1px solid #777777;
+  border-top: 2px solid #000000;
 }
 
 p {
