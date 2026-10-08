@@ -25,8 +25,7 @@ server is required. The site uses separate pages for `Home`, `Publications`,
 
 ## Updating Content
 
-- Add new papers in the `Preprints` list in `index.html`.
-- Add new papers in `publications.html`.
+- Add new papers in the `Preprints` list in `publications.html`.
 - Add talks in `presentations.html`.
 - Update education and honors in `cv.html`.
 - Update the footer date after a visible content change.
