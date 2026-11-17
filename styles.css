@@ -258,3 +258,7 @@ footer p {
     font-size: 22px;
   }
 }
+
+.paper-list a {
+  text-decoration: underline;
+}
